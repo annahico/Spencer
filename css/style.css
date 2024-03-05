@@ -18,6 +18,10 @@ header h1 {
     text-align: center;
 }
 
+img {
+    width: 400px;
+}
+
 .container {
     width: 400px;
     margin: 0 auto;
